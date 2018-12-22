@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <title>Sunshine Palace | Bookings</title>
+        <link rel="stylesheet" type="text/css" href="C:\Users\HP\Documents\HOTEL MANAGEMENT\css\formstyle.css">
+    </head>
+        
+    	<header>
+			<nav>
+				<h1>Sunshine Palace</h1>
+				<ul id="nav">
+					<li><a class="homeblack" href="index.html">Home</a></li>
+					<li><a class="homeblack" href="gallery.html">Services</a></li>
+					<li><a class="homeblack" href="tariff.html">History</a></li>
+					<li><a class="homeblack" href="about.html">Contact</a></li>
+
+				</ul>
+			</nav>
+		<header>
+		<div class="divider"> </div>
+        
+        <div id="main">
+          
+            <div id=Bookings">
+                <form action="bookform.php" method="post" onsubmit="return validate()">
+                    <br>
+                    First Name:<input id="firstn" type="text" name="fname" required>
+                    <br>
+                    Last Name:<input id="lastn" type="text" name="lname" required>
+                    <br>
+                    Email:<input id="mail" type="email" name="email" required>
+                    <br>
+                    Type of room:<select name="combo">
+                        <option value="opt1">Economy</option>
+                        <option value="opt2">Diamond</option>
+                        <option value="opt3">Delux</option>
+             
+
+                alert("Your name cannot be a number.");
+                return false;
+            }
+        }
+    </script>
+    </body>
+
+</html>
