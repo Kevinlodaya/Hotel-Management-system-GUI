@@ -12,3 +12,5 @@ JAVASCRIPT: JavaScript is the programming language of HTML and the Web.
 ```
 This is an implementation of Hotel Management System using various method describes above to get the better and efficient Outlook.
 ```
+The code was inspired by using the basic's and development activity:
+(https://www.w3schools.com/)
