@@ -1,0 +1,97 @@
+<DOCTYPE html>
+<html>
+<head>
+	<title>Sunshine Palace</title>
+	<link rel="stylesheet" type="text/css" href="C:\Users\HP\Documents\HOTEL MANAGEMENT\css\fs.css">
+</head>
+<body>
+<header id="showcase">
+	<h1>Sunshine Palace</h1>
+	<p>Welcomes to Food Services by SUNSHINE PALACE</p>
+	<a href="#" class="button">Scroll down</a>
+</header>
+<section id="section-a"> 
+<p>Food Items Provided By US. </p
+</section>
+<section id="section-b">
+	<div class="container">
+		<div class="box">
+			<h2><b> VEG & NON-VEG.</b> </h2>
+		<p> SUNSHINE PALACE Services' provides you the best services int INDIA  <br> This are the packages According to the requirements.</p>
+		</div>
+	</div>
+</section>
+<section id="pics">
+<br>
+	<img src="C:/Users/HP/Documents/HOTEL MANAGEMENT/css/images/hero.jpg">
+<br
+<div class="container">
+		<div class="box">
+			<h3><b> DRINKS.</b> </h3>
+
+		<div class="box">
+		<p> SUNSHINE PALACE Services' provides you the best services in INDIA. This are the packages According to the requirements.</p>
+		</div>
+	</div>
+		</div>
+	</div>
+<br>
+		<div class="box">
+		<img src="C:/Users/HP/Documents/HOTEL MANAGEMENT/css/images/food.jpg">
+<br>
+			<h2><b> Food Philosophy </b> </h2>
+	<p> This are the packages According to the requirements.</p>	
+<br
+
+</div>
+		<div class="box>
+<br>
+		<img src="C:/Users/HP/Documents/HOTEL MANAGEMENT/css/images/kitchen.jpg">
+<br>
+			<h2><b> Kitchen </b> </h2>
+	<p> SUNSHINE PALACE Services' provides you the best services in INDIA. This are the packages According to the requirements.</p>	
+<br>
+		<img src="C:/Users/HP/Documents/HOTEL MANAGEMENT/css/images/new.jpg">
+<h2><b> AMBIENCE </b> </h2>
+	<p> SUNSHINE PALACE Services' provides you the best services in INDIA. This are the packages According to the requirements.</p>
+</div>
+
+</section>
+<img src="grey">
+<div class="bigf">
+	<h1>OUR FOOD MENU</h1>
+</div>
+<section id="box">
+	
+  <div class="container">
+	<div class="mediabox">
+		<center>
+			<h1 style="background: #1aaa6c; color: #ffffff; padding: 30px;"> Normal BRUNCH <br>
+			Rs. 500/day
+			</h1>
+			<h3> &#9899 1 Sweets</h3>
+			<h3> &#9899 1 Namkeens</h3>
+			<h3> &#9899 Fresh Juice's</h3>
+		</center>	
+	</div>
+	<div class="mediabox">
+		<center>
+				<h1 style="background: #128ab1; color: #ffffff; padding: 30px;"> Lit. Special-BRUNCH <br>
+			Rs. 750/day
+			</h1>
+			<h3> &#9899 2 Sweets </h3>
+			<h3> &#9899 2 Namkeens </h3>
+			<h3> &#9899 Mocktail's </h3>
+			</center>
+	</div>
+	<div class="mediabox">
+		<center>
+				<h1 style="background: red; color: #ffffff; padding: 30px;"> Special Occasions <br>
+			Rs. 1000/day
+			</h1>
+			<h3> &#9899 Open Terrace</h3>
+			<h3> &#9899 Candle Light(Dinner)</h3>
+			<h3> &#9899 Customized Services</h3>
+			</center>
+	</div>
+</section>
