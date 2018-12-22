@@ -10,6 +10,5 @@ PHP: PHP is a server scripting language, and a powerful tool for making dynamic 
 JAVASCRIPT: JavaScript is the programming language of HTML and the Web.
 ```
 ```
-REFERNCE:
-"HotelWorld To Debut in Las Vegas September 18-20, 2007". PR Newswire. Newton. 20 November 2006. Retrieved 25 April 2017.
+This is an implementation of Hotel Management System using various method describes above to get the better and efficient Outlook.
 ```
