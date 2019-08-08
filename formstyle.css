@@ -1,0 +1,216 @@
+@import "http://fonts.googleapis.com/css?family=Ubuntu";
+@import url('https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+body{
+    margin:0;
+    background-image: url("images/kk1.jpeg");
+}
+
+header{
+    background: black;
+    color: white;
+    padding: 8px 0px 6px 40px;
+    height: 45px;
+
+}
+
+header h1{
+    display:inline;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 32;
+    float: left;
+    margin-top: 0px;
+    margin-right: 10px;
+}
+
+nav ul{
+    display: inline;
+    padding: 0px 5px;
+    float: right;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style-type: none;
+    color: white;
+    float: left;
+    margin-left: 12px;
+
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+#nav {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.homered{
+    background-color: red;
+    padding: 30px 10px 16px 10px;
+} 
+
+.divider{
+    background-color:rgb(246, 33, 49);
+    height: 5px;
+
+}
+
+.homeblack:hover{
+    background-color: red;
+    padding: 30px 10px 15px 10px;   
+
+}
+
+div#main
+{
+    width: 830px;
+    height: 650px;
+    margin: 0 auto;
+    font-family: 'Ubuntu', sans-serif
+}
+
+div#bookings
+{
+    text-align: center;
+    border: 1px solid #ccc;
+    width: 550px;
+    padding: 0 50px 15px;
+    margin-top: 40px;
+    box-shadow: 0 0 15px;
+    border-radius: 5px;
+    float: left;
+}
+
+#main h1
+{
+    margin-top: 40px;
+}
+
+hr
+{
+    margin-top: 5px;
+}
+
+label
+{
+    float: left;
+    font-size: 16px;
+}
+
+textarea
+{
+    widows: 100%;
+    margin-top: 10px;
+    height: 70px;
+    width: 300px;
+    margin-bottom: 25px;
+    border: 3px solid #2BC1F2
+}
+
+select
+{
+    widows: 100%;
+    margin-top: 10px;
+    height: 35px;
+    margin-bottom: 25px;
+    padding: 2px;
+    border: 3px solid #2BC1F2
+}
+
+input[type="email"]
+{
+    widows: 100%;
+    margin-top: 10px;
+    height: 35px;
+    margin-bottom: 25px;
+    padding: 10px 15px;
+    margin-left: 35px;
+    border: 3px solid #2BC1F2
+}
+
+
+
+input[type="text"]
+{
+    widows: 100%;
+    margin-top: 10px;
+    height: 35px;
+    margin-bottom: 25px;
+    padding: 10px 15px;
+    margin-left: 10px;
+    border: 3px solid #2BC1F2
+}
+
+input[type="number"]
+{
+    widows: 100%;
+    margin-top: 10px;
+    height: 35px;
+    margin-bottom: 25px;
+    padding: 10px;
+    margin-left: 40px;
+    margin-right: 5px;
+    border: 3px solid #2BC1F2
+}
+
+input[type="date"]
+{
+    widows: 100%;
+    margin-top: 10px;
+    height: 35px;
+    margin-bottom: 25px;
+    padding: 10px;
+    border: 3px solid #2BC1F2
+}
+
+input[type="submit"]
+{
+    width: 100%;
+    padding: 10px 10px;
+    background-color: #2BC1F2;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    font-family: 'Ubuntu', sans-serif
+}
+
+
+
+footer{
+    width: 100%;
+    padding: 0px 0px;
+}
+
+footer nav{
+    float:right;
+}
+footer ul li{
+    display: inline-block;
+}
+footer ul li a{
+    font-family: lato;
+    font-weight: 100px;
+    font-size: 14px;
+    color: black;
+    text-decoration: none;
+        margin-right: 20px;
+}
+footer a:hover{
+    color: #FD2E1F;
+
+}
+footer{
+        text-align: center;
+}
+footer p{
+    font-size: 10px;
+}
